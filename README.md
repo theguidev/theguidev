@@ -1,11 +1,13 @@
-theguidev
-=======
+## theguidev
+
 _Guilherme Schneider_
 
-#### Hello! I am a student from Brazil, I aim for full stack development, and I'm currently know the following languages:
+### Hi!👋 I'm a **system-development** student (15) from **Santa Catarina, Brazil.** I love **graphic design** and **front-end development.** I also have some experience in the video/image editing area.
 
-* HTML5
-* CSS3
-* JavaScript 
+#### 🔥 I'm learning these languages:
+
+- HTML5
+- CSS3
+- JavaScript 
 
 #### Thanks for reading! ✌️
