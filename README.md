@@ -1,9 +1,20 @@
 ## theguidev
-
 _Guilherme Schneider_
 
-### Hi!👋 I'm a **system-development** student (17) from **Santa Catarina, Brazil.** I love **graphic design** and **front-end development.** I also have some experience in the video/image editing area.
+// English 🇺🇸
 
-### 🔥 I am now learning and working part time with Tcl/Tk.
+### Hi! 👋 I'm a full-time developer from Santa Catarina, Brazil.
+### I work mainly with Tcl/Tk, PHP, and Bootstrap, and I’m currently expanding my skills in JavaScript and .NET C#.
+### I also have a background in graphic design and front-end development, with some experience in video/image editing.
 
-#### Thanks for reading! ✌️
+### 🔧 Constantly learning and building cool stuff!
+### Thanks for stopping by! ✌️
+
+// Português 🇧🇷
+
+### Olá! 👋 Sou um dev de Santa Catarina, Brasil.
+### Trabalho principalmente com Tcl/Tk, PHP e Bootstrap, e atualmente estou me aprofundando em JavaScript e .NET/C#.
+### Tenho também experiência em design gráfico e desenvolvimento front-end, além de de conhecimento em edição de vídeo/imagem.
+
+### 🔧 Sempre aprendendo e criando coisas legais!
+### Obrigado por visitar! ✌️
