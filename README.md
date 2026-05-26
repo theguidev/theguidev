@@ -9,7 +9,6 @@ I combine solid technical skills with a background in **graphic design**, which 
 
 I’m constantly improving my skills, following best practices in software architecture, clean code, and version control. Passionate about creating scalable and user-centered solutions.
 
-**GitHub:** [github.com/theguidev](https://github.com/theguidev)  
 **Email:** guilhermerafaelschneider@gmail.com  
 **Phone:** (47) 99622-0191
 
@@ -23,6 +22,5 @@ Combino habilidades técnicas sólidas com background em **design gráfico**, o 
 
 Estou sempre em busca de evolução, aplicando boas práticas de arquitetura, código limpo e versionamento. Apaixonado por criar soluções escaláveis e centradas no usuário.
 
-**GitHub:** [github.com/theguidev](https://github.com/theguidev)  
 **E-mail:** guilhermerafaelschneider@gmail.com  
 **Telefone:** (47) 99622-0191
