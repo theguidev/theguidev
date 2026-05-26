@@ -1,22 +1,30 @@
+---
+
 ## theguidev
-_Guilherme Schneider_
+**Guilherme Schneider**
 
 ### English 🇺🇸
 
-#### Hi! 👋 I'm a full-time developer from Santa Catarina, Brazil.
-#### I work mainly with Tcl/Tk, PHP, and Bootstrap, and I’m currently expanding my skills in JavaScript and .NET C#.
-#### I also have a background in graphic design and front-end development, with some experience in video/image editing.
+Hi! 👋 I'm a **full-stack developer** from Santa Catarina, Brazil, with a strong focus on **front-end development** and creating modern, functional, and well-structured web applications.
 
-#### 🔧 Constantly learning and building cool stuff!
-#### Thanks for stopping by! ✌️
+I combine solid technical skills with a background in **graphic design**, which allows me to develop solutions that balance clean code, good UX/UI, and visual quality. I have experience building interactive interfaces and integrating systems using technologies such as **JavaScript, Node.js, HTML, CSS, Tailwind CSS, C#, .NET**, and tools like **Figma** and **GitHub**.
 
+I’m constantly improving my skills, following best practices in software architecture, clean code, and version control. Passionate about creating scalable and user-centered solutions.
 
+**GitHub:** [github.com/theguidev](https://github.com/theguidev)  
+**Email:** guilhermerafaelschneider@gmail.com  
+**Phone:** (47) 99622-0191
+
+---
 
 ### Português 🇧🇷
 
-#### Olá! 👋 Sou um dev de Santa Catarina, Brasil.
-#### Trabalho principalmente com Tcl/Tk, PHP e Bootstrap, e atualmente estou me aprofundando em JavaScript e .NET/C#.
-#### Tenho também experiência em design gráfico e desenvolvimento front-end, além de de conhecimento em edição de vídeo/imagem.
+Olá! 👋 Sou **desenvolvedor full-stack** de Santa Catarina, Brasil, com foco em **desenvolvimento front-end** e na criação de aplicações web modernas, funcionais e bem estruturadas.
 
-#### 🔧 Sempre aprendendo e criando coisas legais!
-#### Obrigado por visitar! ✌️
+Combino habilidades técnicas sólidas com background em **design gráfico**, o que me permite desenvolver soluções que equilibram código limpo, boa experiência do usuário e qualidade visual. Tenho experiência na construção de interfaces interativas e integração de sistemas utilizando tecnologias como **JavaScript, Node.js, HTML, CSS, Tailwind CSS, C# e .NET**, além de ferramentas como **Figma** e **GitHub**.
+
+Estou sempre em busca de evolução, aplicando boas práticas de arquitetura, código limpo e versionamento. Apaixonado por criar soluções escaláveis e centradas no usuário.
+
+**GitHub:** [github.com/theguidev](https://github.com/theguidev)  
+**E-mail:** guilhermerafaelschneider@gmail.com  
+**Telefone:** (47) 99622-0191
