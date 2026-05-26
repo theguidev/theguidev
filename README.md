@@ -1,7 +1,5 @@
----
-
 ## theguidev
-**Guilherme Schneider**
+_Guilherme Schneider_
 
 ### English 🇺🇸
 
