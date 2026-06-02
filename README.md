@@ -10,7 +10,7 @@ I combine solid technical skills with a background in **graphic design**, which 
 I’m constantly improving my skills, following best practices in software architecture, clean code, and version control. Passionate about creating scalable and user-centered solutions.
 
 **Email:** guilhermerafaelschneider@gmail.com  
-**Phone:** (47) 99622-0191
+**Phone:** +55 (47) 99622-0191
 
 ---
 
